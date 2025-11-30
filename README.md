@@ -1,2 +1,2 @@
 # Calculator_project
-this is a basic calender project.
+this is a basic calculator project.
